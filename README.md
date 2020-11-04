@@ -50,4 +50,4 @@ YNAB uses into the currency format of the budget.
 
 ### GitHub Pages
 If you have a GitHub account, fork this repo. You can now modify your fork, run
-`npm run build`, commit and push the code. Your app will be live on ['https://ajmarroquin.github.io/ynab-api-starter-kit/']`https://ajmarroquin.github.io/ynab-api-starter-kit/`.
+`npm run build`, commit and push the code. Your app will be live on [`https://ajmarroquin.github.io/ynab-api-starter-kit/`]`https://ajmarroquin.github.io/ynab-api-starter-kit/`.
