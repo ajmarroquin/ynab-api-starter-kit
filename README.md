@@ -1,4 +1,4 @@
-# YNAB API Starter Kit
+# ding dong dibble bootstrap
 
 Want to build a web app with the [YNAB API](https://api.youneedabudget.com/) but
 not sure how to get started?
