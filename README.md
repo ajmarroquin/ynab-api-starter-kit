@@ -1,19 +1,8 @@
-# ding dong dibble bootstrap
-
-Want to build a web app with the [YNAB API](https://api.youneedabudget.com/) but
-not sure how to get started?
-
-Try this YNAB API Starter Kit!
-
-## Demo
-
-View a [live demo](https://ynab.github.io/ynab-api-starter-kit/) of what this project
-will start off looking like or take a look below.
-
-![kapture 2018-03-28 at 12 37 23](https://user-images.githubusercontent.com/759811/38046244-c9806f0a-3284-11e8-8788-509912ec79c2.gif)
-
-## Usage
-
+### YNAB API
+[YNAB API](https://api.youneedabudget.com/)
+### Live Demo
+[live demo](https://ynab.github.io/ynab-api-starter-kit/)
+### Local Usage
 * Install [Node.js](https://nodejs.org/).
 * In your terminal, run `npx ynab-api-starter-kit my-ynab-app`
 
@@ -39,14 +28,6 @@ You'll see your client id, client secret and redirect URI(s).
 
 Copy and paste your client id and redirect URI into the `src/config.json` file.
 
-## Development
-
-Check out the [YNAB API Documentation](https://api.youneedabudget.com/) for more
-information on how to use the YNAB API.
-
-This example uses [Vue.js](https://vuejs.org/) but it is not required. Feel free
-to use whatever framework or libraries you prefer.
-
 ### `npm start`
 Runs the development server (defaults to `localhost:8080`) and watches for changes.
 
@@ -67,18 +48,6 @@ This displays all the transactions when you've got them. It also has an example
 of using `utils.convertMilliUnitsToCurrencyAmount` to convert the milliunits that
 YNAB uses into the currency format of the budget.
 
-## Deployment
-
-<a href="https://heroku.com/deploy?template=https://github.com/ynab/ynab-api-starter-kit">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-
 ### GitHub Pages
 If you have a GitHub account, fork this repo. You can now modify your fork, run
 `npm run build`, commit and push the code. Your app will be live on `https://[yourgithubacccount].github.io/ynab-api-starter-kit/`.
-
-## License
-
-Copyright (c) 2019 You Need A Budget, LLC
-
-Licensed under the Apache-2.0 license
