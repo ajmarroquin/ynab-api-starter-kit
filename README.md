@@ -35,14 +35,14 @@ Runs the development server (defaults to `localhost:8080`) and watches for chang
 Builds the production assets for deployment. This will build to `dist/build.js`
 which the `index.html` will load.
 
-### [`src/App.vue`](https://ajmarroquin.github.com/ynab/ynab-api-starter-kit/blob/gh-pages/src/App.vue)
+### [`src/App.vue`](https://github.com/ajmarroquin/ynab-api-starter-kit/blob/gh-pages/src/App.vue)
 
 In the script portion of this page, you can see how to build an OAuth URI to
 obtain an access token for the API.
 
 It also has some examples on retrieving budgets and transactions.
 
-### [`src/Transactions.vue`](https://ajmarroquin.github.com/ynab/ynab-api-starter-kit/blob/gh-pages/src/components/Transactions.vue)
+### [`src/Transactions.vue`](https://github.com/ajmarroquin/ynab-api-starter-kit/blob/gh-pages/src/components/Transactions.vue)
 
 This displays all the transactions when you've got them. It also has an example
 of using `utils.convertMilliUnitsToCurrencyAmount` to convert the milliunits that
