@@ -7,7 +7,7 @@
     <div class="row">
       <div class="col-12 col-md">
         <small class="text-muted">MADE BY</small>
-        <h5><a href="https://gitbhub.com/ajmarroquin/"" target="_blank" rel="noopener noreferrer">AJ Marroquin!</a></h5>
+        <h5><a href="https://gitbhub.com/ajmarroquin/" target="_blank" rel="noopener noreferrer">AJ Marroquin!</a></h5>
       </div>
     </div>
   </footer>
